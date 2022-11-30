@@ -6,3 +6,4 @@ function scopeTest() {
 
 var x = 33;
 scopeTest();
+module.exports = scopeTest;
