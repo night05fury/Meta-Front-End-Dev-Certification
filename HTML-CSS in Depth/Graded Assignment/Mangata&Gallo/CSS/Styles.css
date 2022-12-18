@@ -28,14 +28,20 @@ header img{
 nav{
     background-color: #9F8772;
     margin-top: 1rem;
+    margin: auto;
+    border-radius: 10px;
+    width: 50%;
+    align-items: center;
 }
+
 nav ul{
     list-style: none;
     font-size: 2rem;
-    text-align: right;
+    text-align: center;
     padding-inline-start: 0rem;
     margin-bottom: 0;
 }
+
 nav ul li{
     display: inline-block;
     margin-top: 0.25rem;
@@ -54,8 +60,12 @@ nav ul a:hover{
     text-decoration: underline;
     text-decoration-thickness:0.25rem ;
 }
+#PromOffer img{
+    background-size: cover;
+    background-position: center;
+}
 #PromOffer {
-    background-image:url("../Assets/Asset 5.png") ;
+    background-image:url("../Assets/Asset 5.jpg") ;
     background-size: cover;
     background-position: center;
     color: #9F8772;
@@ -121,8 +131,9 @@ main article {
 
 .section2 article {
     border-style: solid;
-    border-color: #9F8772;
-    margin: 2rem;
+    border-color: #b69388;
+    border-radius: 20px;
+    margin: 1rem;
 }
 
 
