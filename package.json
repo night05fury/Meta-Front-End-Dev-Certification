@@ -19,5 +19,8 @@
   "homepage": "https://github.com/night05fury/Meta-Front-End-Dev-Certification#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "react-player": "^2.11.2"
   }
 }
